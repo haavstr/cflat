@@ -1,0 +1,21 @@
+	1: # Program 'mini'
+	2: # --------------
+	3: # A minimal Cb program!
+	4: 
+	5: int main () 
+Parser:	    <program>
+Parser:	        <func-decl>
+	6: {
+	7: 
+	8:   /* Some comment	
+	9:   putchar('x');
+	10: }
+Parser:	            <func-body>
+Parser:	                <statm list>
+Parser:	                </statm list>
+Parser:	            /<func-body>
+Parser:	        </func-decl>
+Parser:	    </program>
+Tree:     int main() {
+Tree:       
+Tree:     }

@@ -1,0 +1,15 @@
+double two;
+
+
+int main(){
+	double b;
+	double a;
+
+
+	a = 2;
+	b = 2;
+	
+	if(a == b){
+		putchar('x');
+	}
+ }

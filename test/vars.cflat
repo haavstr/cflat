@@ -1,0 +1,8 @@
+int FOO; int BAR;
+
+int main(){
+	int a;
+	int b;
+
+
+}

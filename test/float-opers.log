@@ -1,0 +1,151 @@
+Binding: Line 7: putdouble refers to declaration in library
+Binding: Line 7: x refers to declaration in line 5
+Binding: Line 7: putchar refers to declaration in library
+Binding: Line 7: putchar refers to declaration in library
+Binding: Line 7: op1 refers to declaration in line 5
+Binding: Line 8: op2 refers to declaration in line 5
+Binding: Line 8: putchar refers to declaration in library
+Binding: Line 8: op2 refers to declaration in line 5
+Binding: Line 9: putchar refers to declaration in library
+Binding: Line 9: putdouble refers to declaration in library
+Binding: Line 9: y refers to declaration in line 5
+Binding: Line 9: putchar refers to declaration in library
+Binding: Line 9: putchar refers to declaration in library
+Binding: Line 10: putchar refers to declaration in library
+Binding: Line 10: putdouble refers to declaration in library
+Binding: Line 10: res refers to declaration in line 5
+Binding: Line 10: putchar refers to declaration in library
+Binding: Line 10: LF refers to declaration in line 3
+Binding: Line 15: putdouble refers to declaration in library
+Binding: Line 15: x refers to declaration in line 13
+Binding: Line 15: putchar refers to declaration in library
+Binding: Line 15: putchar refers to declaration in library
+Binding: Line 15: op1 refers to declaration in line 13
+Binding: Line 16: op2 refers to declaration in line 13
+Binding: Line 16: putchar refers to declaration in library
+Binding: Line 16: op2 refers to declaration in line 13
+Binding: Line 17: putchar refers to declaration in library
+Binding: Line 17: putdouble refers to declaration in library
+Binding: Line 17: y refers to declaration in line 13
+Binding: Line 17: putchar refers to declaration in library
+Binding: Line 17: putchar refers to declaration in library
+Binding: Line 18: putchar refers to declaration in library
+Binding: Line 18: putint refers to declaration in library
+Binding: Line 18: res refers to declaration in line 13
+Binding: Line 18: putchar refers to declaration in library
+Binding: Line 18: LF refers to declaration in line 3
+Binding: Line 23: putchar refers to declaration in library
+Binding: Line 23: LF refers to declaration in line 3
+Binding: Line 25: print refers to declaration in line 5
+Binding: Line 25: a refers to declaration in line 21
+Binding: Line 25: b refers to declaration in line 21
+Binding: Line 25: a refers to declaration in line 21
+Binding: Line 25: b refers to declaration in line 21
+Binding: Line 26: print refers to declaration in line 5
+Binding: Line 26: a refers to declaration in line 21
+Binding: Line 26: b refers to declaration in line 21
+Binding: Line 26: a refers to declaration in line 21
+Binding: Line 26: b refers to declaration in line 21
+Binding: Line 27: print refers to declaration in line 5
+Binding: Line 27: a refers to declaration in line 21
+Binding: Line 27: b refers to declaration in line 21
+Binding: Line 27: a refers to declaration in line 21
+Binding: Line 27: b refers to declaration in line 21
+Binding: Line 28: print refers to declaration in line 5
+Binding: Line 28: a refers to declaration in line 21
+Binding: Line 28: b refers to declaration in line 21
+Binding: Line 28: a refers to declaration in line 21
+Binding: Line 28: b refers to declaration in line 21
+Binding: Line 30: prini refers to declaration in line 13
+Binding: Line 30: a refers to declaration in line 21
+Binding: Line 30: b refers to declaration in line 21
+Binding: Line 30: a refers to declaration in line 21
+Binding: Line 30: b refers to declaration in line 21
+Binding: Line 31: prini refers to declaration in line 13
+Binding: Line 31: a refers to declaration in line 21
+Binding: Line 31: b refers to declaration in line 21
+Binding: Line 31: a refers to declaration in line 21
+Binding: Line 31: b refers to declaration in line 21
+Binding: Line 32: prini refers to declaration in line 13
+Binding: Line 32: a refers to declaration in line 21
+Binding: Line 32: b refers to declaration in line 21
+Binding: Line 32: a refers to declaration in line 21
+Binding: Line 32: b refers to declaration in line 21
+Binding: Line 33: prini refers to declaration in line 13
+Binding: Line 33: a refers to declaration in line 21
+Binding: Line 33: b refers to declaration in line 21
+Binding: Line 33: a refers to declaration in line 21
+Binding: Line 33: b refers to declaration in line 21
+Binding: Line 34: prini refers to declaration in line 13
+Binding: Line 34: a refers to declaration in line 21
+Binding: Line 34: b refers to declaration in line 21
+Binding: Line 34: a refers to declaration in line 21
+Binding: Line 34: b refers to declaration in line 21
+Binding: Line 35: prini refers to declaration in line 13
+Binding: Line 35: a refers to declaration in line 21
+Binding: Line 35: b refers to declaration in line 21
+Binding: Line 35: a refers to declaration in line 21
+Binding: Line 35: b refers to declaration in line 21
+Binding: Line 42: c refers to declaration in line 40
+Binding: Line 42: TAB refers to declaration in line 3
+Binding: Line 42: LF refers to declaration in line 3
+Binding: Line 43: va refers to declaration in line 40
+Binding: Line 43: va refers to declaration in line 40
+Binding: Line 43: va refers to declaration in line 40
+Binding: Line 43: c refers to declaration in line 40
+Binding: Line 43: va refers to declaration in line 40
+Binding: Line 43: va refers to declaration in line 40
+Binding: Line 44: vb refers to declaration in line 40
+Binding: Line 44: vb refers to declaration in line 40
+Binding: Line 44: vb refers to declaration in line 40
+Binding: Line 44: c refers to declaration in line 40
+Binding: Line 44: vb refers to declaration in line 40
+Binding: Line 44: vb refers to declaration in line 40
+Binding: Line 46: ia refers to declaration in line 40
+Binding: Line 46: ia refers to declaration in line 40
+Binding: Line 46: ia refers to declaration in line 40
+Binding: Line 46: ia refers to declaration in line 40
+Binding: Line 47: putchar refers to declaration in library
+Binding: Line 47: putchar refers to declaration in library
+Binding: Line 47: putchar refers to declaration in library
+Binding: Line 47: putint refers to declaration in library
+Binding: Line 47: ia refers to declaration in line 40
+Binding: Line 48: putchar refers to declaration in library
+Binding: Line 48: putchar refers to declaration in library
+Binding: Line 48: putchar refers to declaration in library
+Binding: Line 48: putchar refers to declaration in library
+Binding: Line 49: putdouble refers to declaration in library
+Binding: Line 49: va refers to declaration in line 40
+Binding: Line 49: ia refers to declaration in line 40
+Binding: Line 49: putchar refers to declaration in library
+Binding: Line 49: TAB refers to declaration in line 3
+Binding: Line 50: putchar refers to declaration in library
+Binding: Line 50: putchar refers to declaration in library
+Binding: Line 50: putchar refers to declaration in library
+Binding: Line 50: putint refers to declaration in library
+Binding: Line 50: ia refers to declaration in line 40
+Binding: Line 51: putchar refers to declaration in library
+Binding: Line 51: putchar refers to declaration in library
+Binding: Line 51: putchar refers to declaration in library
+Binding: Line 51: putchar refers to declaration in library
+Binding: Line 52: putdouble refers to declaration in library
+Binding: Line 52: vb refers to declaration in line 40
+Binding: Line 52: ia refers to declaration in line 40
+Binding: Line 52: putchar refers to declaration in library
+Binding: Line 52: LF refers to declaration in line 3
+Binding: Line 54: putchar refers to declaration in library
+Binding: Line 54: LF refers to declaration in line 3
+Binding: Line 56: ia refers to declaration in line 40
+Binding: Line 56: ia refers to declaration in line 40
+Binding: Line 56: ia refers to declaration in line 40
+Binding: Line 56: ia refers to declaration in line 40
+Binding: Line 57: ib refers to declaration in line 40
+Binding: Line 57: ib refers to declaration in line 40
+Binding: Line 57: ib refers to declaration in line 40
+Binding: Line 57: ib refers to declaration in line 40
+Binding: Line 58: test refers to declaration in line 21
+Binding: Line 58: va refers to declaration in line 40
+Binding: Line 58: ia refers to declaration in line 40
+Binding: Line 58: vb refers to declaration in line 40
+Binding: Line 58: ib refers to declaration in line 40
+Binding: Line 3: main refers to declaration in line 38

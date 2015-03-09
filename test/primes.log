@@ -1,0 +1,65 @@
+Binding: Line 15: i1 refers to declaration in line 14
+Binding: Line 15: i1 refers to declaration in line 14
+Binding: Line 15: i1 refers to declaration in line 14
+Binding: Line 15: i1 refers to declaration in line 14
+Binding: Line 16: i2 refers to declaration in line 14
+Binding: Line 16: i1 refers to declaration in line 14
+Binding: Line 16: i2 refers to declaration in line 14
+Binding: Line 16: i2 refers to declaration in line 14
+Binding: Line 16: i2 refers to declaration in line 14
+Binding: Line 16: i1 refers to declaration in line 14
+Binding: Line 17: prime refers to declaration in line 7
+Binding: Line 17: i2 refers to declaration in line 14
+Binding: Line 26: a refers to declaration in line 22
+Binding: Line 26: a refers to declaration in line 22
+Binding: Line 26: b refers to declaration in line 22
+Binding: Line 26: b refers to declaration in line 22
+Binding: Line 33: a refers to declaration in line 29
+Binding: Line 33: n_chars refers to declaration in line 29
+Binding: Line 33: a refers to declaration in line 29
+Binding: Line 34: a refers to declaration in line 29
+Binding: Line 35: n_chars refers to declaration in line 29
+Binding: Line 35: a refers to declaration in line 29
+Binding: Line 44: i refers to declaration in line 42
+Binding: Line 44: n_chars refers to declaration in line 29
+Binding: Line 44: v refers to declaration in line 38
+Binding: Line 44: i refers to declaration in line 42
+Binding: Line 44: w refers to declaration in line 38
+Binding: Line 44: i refers to declaration in line 42
+Binding: Line 44: i refers to declaration in line 42
+Binding: Line 44: putchar refers to declaration in library
+Binding: Line 45: putint refers to declaration in library
+Binding: Line 45: v refers to declaration in line 38
+Binding: Line 52: a refers to declaration in line 48
+Binding: Line 52: b refers to declaration in line 48
+Binding: Line 61: n_printed refers to declaration in line 60
+Binding: Line 62: i refers to declaration in line 60
+Binding: Line 62: i refers to declaration in line 60
+Binding: Line 62: i refers to declaration in line 60
+Binding: Line 62: i refers to declaration in line 60
+Binding: Line 63: prime refers to declaration in line 7
+Binding: Line 63: i refers to declaration in line 60
+Binding: Line 64: and refers to declaration in line 48
+Binding: Line 64: mod refers to declaration in line 22
+Binding: Line 64: n_printed refers to declaration in line 60
+Binding: Line 64: n_printed refers to declaration in line 60
+Binding: Line 64: putchar refers to declaration in library
+Binding: Line 64: LF refers to declaration in line 8
+Binding: Line 65: putchar refers to declaration in library
+Binding: Line 65: pn refers to declaration in line 38
+Binding: Line 65: i refers to declaration in line 60
+Binding: Line 65: n_printed refers to declaration in line 60
+Binding: Line 65: n_printed refers to declaration in line 60
+Binding: Line 68: putchar refers to declaration in library
+Binding: Line 68: LF refers to declaration in line 8
+Binding: Line 74: LF refers to declaration in line 8
+Binding: Line 77: prime refers to declaration in line 7
+Binding: Line 78: i refers to declaration in line 73
+Binding: Line 78: i refers to declaration in line 73
+Binding: Line 78: i refers to declaration in line 73
+Binding: Line 78: i refers to declaration in line 73
+Binding: Line 78: prime refers to declaration in line 7
+Binding: Line 78: i refers to declaration in line 73
+Binding: Line 81: find_primes refers to declaration in line 10
+Binding: Line 81: print_primes refers to declaration in line 56
+Binding: Line 7: main refers to declaration in line 71

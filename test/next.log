@@ -1,0 +1,6 @@
+Binding: Line 5: putchar refers to declaration in library
+Binding: Line 5: putchar refers to declaration in library
+Binding: Line 6: putint refers to declaration in library
+Binding: Line 6: getint refers to declaration in library
+Binding: Line 6: putchar refers to declaration in library
+Binding: Line 4: main refers to declaration in line 4

@@ -1,0 +1,6 @@
+Binding: Line 9: a refers to declaration in line 6
+Binding: Line 10: b refers to declaration in line 5
+Binding: Line 12: a refers to declaration in line 6
+Binding: Line 12: b refers to declaration in line 5
+Binding: Line 13: putchar refers to declaration in library
+Binding: Line 1: main refers to declaration in line 4
